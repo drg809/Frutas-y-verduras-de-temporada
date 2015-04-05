@@ -10,6 +10,12 @@
 # base de datos, es posible iniciarla y gestionarla
 # posteriormente desde la misma aplicacion.
 # 
+#
+#Esta aplicacion fue creada mientras estudiaba el ciclo 
+#superior de informatica  ASIR, los documentos no han sido
+#modificados desde entonces y se encuentran en su estado
+#original.
+#
 # 
 # Creado por Daniel Rodriguez Garcia bajo licencia
 # Beerware.
